@@ -1784,6 +1784,7 @@ Gang.prototype.createGangMemberDisplayElement = function(memberObj) {
         id: name + "gang-member-task",
     });
     const taskSelector = createElement("select", {
+    	//test
         id: name + "gang-member-task-selector",
     });
 
